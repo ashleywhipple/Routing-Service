@@ -35,10 +35,7 @@ Unit testing with JUnit
 
 Visualization Tools: Java StdDraw for mapping highway routes
 
-
-
-**What I Learned
-**
+**What I Learned**
 Translating abstract graph theory into a working software system.
 
 Balancing correctness and efficiency in algorithm design.
